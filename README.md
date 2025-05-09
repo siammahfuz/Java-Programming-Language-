@@ -45,7 +45,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Java-Programming-Language.git
+git clone https://github.com/siammahfuz/Java-Programming-Language
 cd Java-Programming-Language
 Compile and run a sample program:
 
